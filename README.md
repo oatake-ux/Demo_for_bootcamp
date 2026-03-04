@@ -15,6 +15,6 @@ _Italics_
 
 ```python
 import numpy
-**shadows**
+shadows
 ## second level permission 
 ```
